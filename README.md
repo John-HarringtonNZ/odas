@@ -2,6 +2,7 @@
 * https://www.hackster.io/matrix-labs/direction-of-arrival-for-matrix-voice-creator-using-odas-b7a15b
 * https://github.com/introlab/odas_web
 * https://github.com/introlab/odas/issues/39
+* https://wiki.seeedstudio.com/ReSpeaker_4-Mic_Linear_Array_Kit_for_Raspberry_Pi/
 
 ODAS ![Analytics](https://ga-beacon.appspot.com/UA-27707792-4/github-main?pixel) 
 =======
