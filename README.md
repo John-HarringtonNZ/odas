@@ -1,3 +1,8 @@
+Relevant Links for my project:
+https://www.hackster.io/matrix-labs/direction-of-arrival-for-matrix-voice-creator-using-odas-b7a15b
+https://github.com/introlab/odas_web
+https://github.com/introlab/odas/issues/39
+
 ODAS ![Analytics](https://ga-beacon.appspot.com/UA-27707792-4/github-main?pixel) 
 =======
 
